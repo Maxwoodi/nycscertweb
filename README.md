@@ -1,7 +1,11 @@
-# nycscertweb
+# _Hunter College Summer 2022 Portfolio_
 
-My APCSA class page
-1. Place curriculum here
-1. Place assessments here
-2. Review
+*Portfolio Contents:*
+
+1. Methods for Teaching Computer Science 1
+
+2. Data Structures
+
+3. Programming in A High Level Language
 Change
+
