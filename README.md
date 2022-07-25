@@ -4,6 +4,8 @@
 
 1. Methods for Teaching Computer Science 1
 
+  [Methods Folder](https://github.com/hunter-teacher-cert/cohort-3-summer-work-Maxwoodi/tree/master/methods)
+
 2. Data Structures
 
    [Common ArrayList Algorithms](https://github.com/hunter-teacher-cert/cohort-3-summer-work-Maxwoodi/tree/master/ds/arraylists)
