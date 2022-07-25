@@ -16,7 +16,7 @@
 
 3. Programming in A High Level Language
 
-   Loops and Conditional
+   [How to play the Game of Nim](https://youtu.be/sfVvdsfdV2g)
    
    [Game of Nim](https://github.com/hunter-teacher-cert/cohort-3-summer-work-Maxwoodi/tree/master/programming/1)
    
