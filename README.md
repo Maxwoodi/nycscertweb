@@ -7,5 +7,11 @@
 2. Data Structures
 
 3. Programming in A High Level Language
-Change
+
+   Loops and Conditional
+   
+   [Game of Nim](https://github.com/hunter-teacher-cert/cohort-3-summer-work-Maxwoodi/tree/master/programming/1)
+   
+   [Programming Folder](https://github.com/hunter-teacher-cert/cohort-3-summer-work-Maxwoodi/tree/master/programming)
+   
 
